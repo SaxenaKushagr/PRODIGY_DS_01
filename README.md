@@ -1,3 +1,5 @@
-Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force.
+The goal of the Loan Approval Prediction project is to estimate the likelihood of a bank approving a loan application. This involves a comprehensive analysis of various factors and applicant information.
 
-• We have seen a sharp increase in the unemployment rate during Covid-19, • so analyzing the unemployment rate can be a good data analysis project.
+The Key variables considered include loan amount, loan tenure, credit history, educational background, income, and other relevant details.
+
+The project aims to identify the critical factors influencing loan approval.
